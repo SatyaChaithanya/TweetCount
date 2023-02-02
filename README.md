@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
+# Description
+I have taken the static data and placed in db.json file. To make use of it, you need to run the below commands before running the project in 4200 port.
+npm install -g json-server
+npm run json-run
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
